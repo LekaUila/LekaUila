@@ -38,5 +38,5 @@
 
 ## Contact
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Mon Profil](https://www.linkedin.com/in/liam-flandrinck-570833338/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Mon Profil](https://www.linkedin.com/in/liam-flandrinck-570833338/) </br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)   [liam.flandrinck.58@gmail.com](https://mail.google.com)
