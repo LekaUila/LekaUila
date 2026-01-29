@@ -40,6 +40,6 @@
 [![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 
 ## Contact
+  <a href="mailto:liam.flandrinck.58@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a></br>
+  <a href="https://www.linkedin.com/in/liam-flandrinck-570833338/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Mon Profil](https://www.linkedin.com/in/liam-flandrinck-570833338/) </br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)   [liam.flandrinck.58@gmail.com](https://mail.google.com)
