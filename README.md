@@ -3,7 +3,6 @@
 ## Moi
 
 - Étudiant à 42 angoulême
-- Développeur orienté C, C++ et Python
 
 ## Compétence
 
